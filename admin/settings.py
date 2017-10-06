@@ -1,1 +1,1 @@
-example.settings.py
+local.settings.py
